@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/noor-fatima-864643249/) 
-[![Fiverr](https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/@n00r_d) 
+[![Fiverr](https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com//users/n00r_d/seller_dashboard) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slaveofnoor@gmail.com)
 
 
