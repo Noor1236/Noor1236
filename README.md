@@ -1,4 +1,7 @@
-# 💫 About Me:
+# Hi there, I'm Noor Fatima! 👋
+
+I'm a passionate MERN Stack developer. I enjoy building cool projects and constantly learning new technologies. Here’s a little bit about me and what I do:
+
 🔭 I’m currently working on new project<br>💞️ I’m looking to collaborate on open-source projects and web applications.<br>🌱 I’m currently learning advanced programming languages<br>📫 How to reach me: slaveofnoor@gmail.com<br>⚡ Fun fact: I love to fix bugs
 
 
