@@ -1,6 +1,9 @@
 # Hi there, I'm Noor Fatima! 👋
 
-<img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" width="500"/>
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" width="600" style="display: block; margin: 0 auto;"/>
+  <h1>Hi there, I'm Noor Fatima! 👋</h1>
+</div>
 
 <table>
   <tr>
