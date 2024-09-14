@@ -1,23 +1,20 @@
-<div style="text-align: center; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: flex-end; width: 100%;">
-    <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" style="width: 600px;" />
-  </div>
+<img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" width="600" style="margin-right=100"/>
   
-  <div style="margin-top: 20px;">
-    <p>I'm Noor Fatima. I'm a passionate MERN Stack developer. I enjoy building cool projects and constantly learning new technologies.</p>
-    <p>🔭 I’m currently working on a new project<br>
-       💞️ I’m looking to collaborate on open-source projects and web applications.<br>
-       🌱 I’m currently learning advanced programming languages<br>
-       📫 How to reach me: slaveofnoor@gmail.com<br>
-       ⚡ Fun fact: I love to fix bugs
-    </p>
-  </div>
-</div>
 
-<table style="width: 100%;">
+
+<table>
   <tr>
-    <td style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/git.gif" alt="Git Image" style="width: 300px;" />
+    <td>
+      <p>I'm Noor Fatima. I'm a passionate MERN Stack developer. I enjoy building cool projects and constantly learning new technologies.</p>
+      <p>🔭 I’m currently working on a new project<br>
+         💞️ I’m looking to collaborate on open-source projects and web applications.<br>
+         🌱 I’m currently learning advanced programming languages<br>
+         📫 How to reach me: slaveofnoor@gmail.com<br>
+         ⚡ Fun fact: I love to fix bugs
+      </p>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/git.gif" alt="Git Image" width="300" />
     </td>
   </tr>
 </table>
