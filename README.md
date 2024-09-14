@@ -12,7 +12,7 @@ I'm a passionate MERN Stack developer. I enjoy building cool projects and consta
       ⚡ Fun fact: I love to fix bugs
     </td>
     <td>
-      <img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYzMzE5NTksIm5iZiI6MTcyNjMzMTY1OSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE0VDE2MzQxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxOTIwMjJkNWQyY2FhYmNlOGM0OTcwZjNiNzRmMTk5YzkwNjMwMmIwOGJmMGE2YzBkNWFiZDVlYWY5MmRjNzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IynHnGGyw9KL5dMch9nuE1yKqy04Jp1LzrFgYkP2Rjc" alt="Your Image" width="300" />
+      <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/assets/git.gif" alt="Your Image" width="300" />
     </td>
   </tr>
 </table>
