@@ -3,11 +3,12 @@
 <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" width="600"/>
 
 
-I'm a passionate MERN Stack developer. I enjoy building cool projects and constantly learning new technologies. Here’s a little bit about me and what I do:
 
 <table>
   <tr>
     <td>
+      I'm a passionate MERN Stack developer. I enjoy building cool projects and constantly learning new technologies. Here’s a little bit about me and what I do:
+
       🔭 I’m currently working on new project<br>
       💞️ I’m looking to collaborate on open-source projects and web applications.<br>
       🌱 I’m currently learning advanced programming languages<br>
