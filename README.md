@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" width="600" style="display: block; margin-left: auto; margin-right: 0;">
+<div style="text-align: right;">
+    <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" width="600">
+</div>
+
 
 
   
