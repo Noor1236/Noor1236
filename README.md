@@ -12,7 +12,7 @@ I'm a passionate MERN Stack developer. I enjoy building cool projects and consta
       ⚡ Fun fact: I love to fix bugs
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/assets/git.gif" alt="Your Image" width="300" />
+      <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/git.gif" alt="Your Image" width="300" />
     </td>
   </tr>
 </table>
