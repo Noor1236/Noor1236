@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" width="600" style="margin-right=100"/>
+<img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" width="600" style="margin-left=100px"/>
   
 
 
