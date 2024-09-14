@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <p>I'm Noor Fatima. I'm a passionate MERN Stack developer. I enjoy building cool projects and constantly learning new technologies.</p>
+      <p>Hi! I'm Noor Fatima. I'm a passionate MERN Stack developer. I enjoy building cool projects and constantly learning new technologies.</p>
       <p>🔭 I’m currently working on a new project<br>
          💞️ I’m looking to collaborate on open-source projects and web applications.<br>
          🌱 I’m currently learning advanced programming languages<br>
