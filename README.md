@@ -1,14 +1,14 @@
-# Hi there, I'm Noor Fatima! 👋
 
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" width="600" style="display: block; margin: 0 auto;"/>
-  <h1>Hi there, I'm Noor Fatima! 👋</h1>
-</div>
+
+
+  <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" width="600"/>
+  
+
 
 <table>
   <tr>
     <td>
-      <p>I'm a passionate MERN Stack developer. I enjoy building cool projects and constantly learning new technologies.</p>
+      <p>I'm Noor Fatima. I'm a passionate MERN Stack developer. I enjoy building cool projects and constantly learning new technologies.</p>
       <p>🔭 I’m currently working on a new project<br>
          💞️ I’m looking to collaborate on open-source projects and web applications.<br>
          🌱 I’m currently learning advanced programming languages<br>
