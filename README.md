@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: flex-end;">
+<div style="display: flex; justify-content: right;">
     <img src="https://raw.githubusercontent.com/Noor1236/Noor1236/main/robo.gif" alt="Profile Image" width="600">
 </div>
 
